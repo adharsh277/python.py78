@@ -1,0 +1,28 @@
+this_dict = {
+    "brand": "ferrari",
+    "model": "oijku",
+    "year": 768
+}
+this_dict.update({"year": 3457})
+print(this_dict)
+
+this_dict = {
+    "brand": "ferrari",
+    "model": "oijku",
+    "year": 768
+}
+this_dict.pop("model")
+print(this_dict)
+
+this_dict = {
+    "country": "india",
+    "famous": "divinity",
+    "population": 37347282
+}
+this_dict["color"] = "white"
+print(this_dict)
+# 63rfyfi
+a = 5787
+b = 9282
+if b > a:
+    print("shibhu is a fool")
