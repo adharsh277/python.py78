@@ -1,0 +1,7 @@
+# 563 elif
+a = 98687
+b = 98687
+if a < b:
+    print("sosovhvsjh")
+elif a == b:
+    print("fufjssuvbvj")
