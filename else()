@@ -1,0 +1,20 @@
+# 7632 else()
+a = 47439
+b = 7273
+if a < 7:
+    print("odfisdu rggegvv")
+elif a == b:
+    print("dufsjsdsduvsdv")
+else:
+    print("cgcicgcggcc")
+    # zxiosAND()
+    a = 200
+    b = 474
+    if a < b and a < b:
+        print("cssbkjvisnn")
+# 356262
+a = 200
+b = 4389
+c = 7822
+if b > a or c < a:
+    print("hcsudifeybdbdsgss")
